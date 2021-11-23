@@ -1,1 +1,1 @@
-{ 'id' : 'Service123' }
+{  "name": "My package"}
